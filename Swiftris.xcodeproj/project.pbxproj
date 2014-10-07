@@ -17,6 +17,7 @@
 		B1E871E519D6049100B105D2 /* JShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E871E419D6049100B105D2 /* JShape.swift */; };
 		B1E871E719D604B200B105D2 /* SShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E871E619D604B200B105D2 /* SShape.swift */; };
 		B1E871E919D604F200B105D2 /* ZShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E871E819D604F200B105D2 /* ZShape.swift */; };
+		B1EA954A19E4653800C8CF77 /* Swiftris.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1EA954919E4653800C8CF77 /* Swiftris.swift */; };
 		B1F5A74019D4A9B600616493 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F5A73F19D4A9B600616493 /* AppDelegate.swift */; };
 		B1F5A74419D4A9B600616493 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F5A74319D4A9B600616493 /* GameScene.swift */; };
 		B1F5A74619D4A9B600616493 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F5A74519D4A9B600616493 /* GameViewController.swift */; };
@@ -59,6 +60,7 @@
 		B1E871E419D6049100B105D2 /* JShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JShape.swift; sourceTree = "<group>"; };
 		B1E871E619D604B200B105D2 /* SShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SShape.swift; sourceTree = "<group>"; };
 		B1E871E819D604F200B105D2 /* ZShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZShape.swift; sourceTree = "<group>"; };
+		B1EA954919E4653800C8CF77 /* Swiftris.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiftris.swift; sourceTree = "<group>"; };
 		B1F5A73A19D4A9B600616493 /* Swiftris.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftris.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1F5A73E19D4A9B600616493 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1F5A73F19D4A9B600616493 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				B1E871E419D6049100B105D2 /* JShape.swift */,
 				B1E871E619D604B200B105D2 /* SShape.swift */,
 				B1E871E819D604F200B105D2 /* ZShape.swift */,
+				B1EA954919E4653800C8CF77 /* Swiftris.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				B1E871DB19D6024200B105D2 /* SquareShape.swift in Sources */,
 				B1F5A74419D4A9B600616493 /* GameScene.swift in Sources */,
 				B1E871E519D6049100B105D2 /* JShape.swift in Sources */,
+				B1EA954A19E4653800C8CF77 /* Swiftris.swift in Sources */,
 				B1E871D919D4BA4300B105D2 /* Shape.swift in Sources */,
 				B1E871D519D4B2E800B105D2 /* Array2D.swift in Sources */,
 				B1E871E119D6047000B105D2 /* LineShape.swift in Sources */,
